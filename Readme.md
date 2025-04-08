@@ -170,9 +170,3 @@ CONFIG = {
   - Внедрение механизма обратной связи от пользователей
 
 ---
-
-## Контакты
-
-Для вопросов и предложений:
-- Email: dev@example.com
-- Telegram: @rag_assistant_support
