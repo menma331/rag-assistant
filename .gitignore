@@ -1,0 +1,4 @@
+.idea
+.venv
+creds/happyai_google_sheets_creds.json
+.env
